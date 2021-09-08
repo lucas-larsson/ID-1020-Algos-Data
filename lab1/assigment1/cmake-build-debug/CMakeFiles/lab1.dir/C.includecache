@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lucasmacbookpro/Jet Brains/CLionProjects/Algo Data/lab1/iterative_reverse.h
+stdio.h
+-
+string.h
+-
+
+/Users/lucasmacbookpro/Jet Brains/CLionProjects/Algo Data/lab1/main.c
+stdio.h
+-
+recursive_reverse.h
+/Users/lucasmacbookpro/Jet Brains/CLionProjects/Algo Data/lab1/recursive_reverse.h
+iterative_reverse.h
+/Users/lucasmacbookpro/Jet Brains/CLionProjects/Algo Data/lab1/iterative_reverse.h
+
+/Users/lucasmacbookpro/Jet Brains/CLionProjects/Algo Data/lab1/recursive_reverse.h
+stdio.h
+-
+
