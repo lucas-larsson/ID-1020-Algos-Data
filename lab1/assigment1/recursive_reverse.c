@@ -13,14 +13,21 @@
         }
     }
 
-/* main method in case of running a single file
-    int main() {
-    printf("enter what you want to reverse: \n");
-    rec_reverse();
-    printf("\n");
-    return 0;
-}
-*/
+
+
+/**
+*
+*
+*  //main method in case of running a single file
+*   int main() {
+*   printf("enter what you want to reverse: \n");
+*   rec_reverse();
+*   printf("\n");
+*   return 0;
+*       }
+**/
+
+
 
 /*
  * an alternative method sing pointers
@@ -28,6 +35,7 @@
  *
  * void rec_reverse(string str)
  * {
+ * if ( )
  * if (*str)
  *      {
  *      rec_reverse (str+1);

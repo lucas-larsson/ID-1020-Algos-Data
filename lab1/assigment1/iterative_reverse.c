@@ -8,7 +8,7 @@
 // C program to reverse a string iteratively with 2 loops.
 void itr_reverse()
 {
-    int i = 1;
+    int i = 1;                      // what happens if you start at 0?
     char str[100];
     str[0] = getchar();             // takes in the fist char
 
