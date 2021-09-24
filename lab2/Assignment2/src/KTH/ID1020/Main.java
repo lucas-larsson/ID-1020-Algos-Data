@@ -19,6 +19,6 @@ public class Main {
         System.out.println(Arrays.toString(toBeSorted));
         Inversions.inversionCount(toBeSorted);
         System.out.println(Arrays.toString(toBeSorted));
-       //  InsertionSort.sort(toBeSorted);
+        // InsertionSort.sort(toBeSorted);
     }
 }
