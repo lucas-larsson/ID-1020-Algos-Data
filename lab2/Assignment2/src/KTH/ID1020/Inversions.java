@@ -4,6 +4,12 @@ package KTH.ID1020;
  * Date:        2021-09-23
  * Description: a class containing a method that count the numbers of inversions
  * required to sort an array of integers
+ *
+ * Time Complexity:  O(n^2)
+ *   selection with repetition and with no regards to order
+ *      (  n+k-1
+ *         k      )      ==> (n*(n-1)/2) which evaluates to O(n^2)
+ *         k = 2, n = n.
  **/
 public class Inversions {
     static void inversionCount (int[] array) {

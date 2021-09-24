@@ -9,7 +9,7 @@ import java.util.Arrays;
  **/
 public class InsertionSort {
 
-    // a void method to sort an array using insertion sort.
+    // a void method to sort an array using insertion sort
     static void  sort (int[] array){
         int swapCount = 0 ;
         int N = array.length;
