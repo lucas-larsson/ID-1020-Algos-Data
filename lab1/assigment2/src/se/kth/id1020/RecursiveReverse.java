@@ -6,7 +6,7 @@ package se.kth.id1020;
  **/
 
 public class RecursiveReverse {
-    // a method that read from StdIN and print in reverse to StdOut
+    // a method that read from StdIn and print in reverse to StdOut
     static void recReverse() {
         char c = Main.sc.next().charAt(0);  // scanner and .charAt(0) reads the first character
         if (c != 0xa) {                     // 0xa is hex for "\n" .

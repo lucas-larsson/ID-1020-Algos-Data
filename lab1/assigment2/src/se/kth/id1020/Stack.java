@@ -17,6 +17,7 @@ class Stack<Item>{
             Node next;
         }
         public boolean isEmpty() {  return first == null;  }
+        // never used
         public int getSize()     {  return size;   }
 
         public void push( Item item ){
@@ -26,7 +27,6 @@ class Stack<Item>{
             first.next = oldFirst;
             size++;
         }
-
         public Item pop(){
             Item item = first.item;
             first = first.next;

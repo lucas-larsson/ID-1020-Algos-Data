@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lucasmacbookpro/Documents/ID 1020 Algos&Data/lab2/Assignment3/main.c
+stdio.h
+-
+sort.h
+/Users/lucasmacbookpro/Documents/ID 1020 Algos&Data/lab2/Assignment3/sort.h
+
+/Users/lucasmacbookpro/Documents/ID 1020 Algos&Data/lab2/Assignment3/sort.h
+

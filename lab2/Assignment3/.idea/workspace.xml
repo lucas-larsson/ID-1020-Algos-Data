@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Assignment3" targetName="Assignment3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4ac4239-1e53-4fbc-aeea-38c4fff264de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/Assignment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/out/production/Assignment3/se/kth/id1020/DLLNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/out/production/Assignment3/se/kth/id1020/DoubleLinkedListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/out/production/Assignment3/se/kth/id1020/EmptyQueueException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/out/production/Assignment3/se/kth/id1020/FifoQueue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/out/production/Assignment3/se/kth/id1020/FifoQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/out/production/Assignment3/se/kth/id1020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/out/production/Assignment4/se/kth/id1020/DLLNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/out/production/Assignment4/se/kth/id1020/DoubleLinkedListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/out/production/Assignment4/se/kth/id1020/EmptyQueueException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/out/production/Assignment4/se/kth/id1020/FifoQueue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/out/production/Assignment4/se/kth/id1020/FifoQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/out/production/Assignment4/se/kth/id1020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/src/se/kth/id1020/DLLNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/src/se/kth/id1020/DoubleLinkedListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/src/se/kth/id1020/EmptyQueueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/src/se/kth/id1020/FifoQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment4/src/se/kth/id1020/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/Assignment5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/out/production/Assignment5/se/kth/id1020/DLLNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/out/production/Assignment5/se/kth/id1020/DoubleLinkedListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/out/production/Assignment5/se/kth/id1020/EmptyQueueException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/out/production/Assignment5/se/kth/id1020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/src/se/kth/id1020/DLLNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/src/se/kth/id1020/DoubleLinkedListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/src/se/kth/id1020/EmptyQueueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment5/src/se/kth/id1020/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/Assignment6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/out/production/Assignment6/se/kth/id1020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/out/production/Assignment6/se/kth/id1020/SortedLinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/out/production/Assignment6/se/kth/id1020/SortedLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/src/se/kth/id1020/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment6/src/se/kth/id1020/SortedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/Assignment7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/out/production/Assignment7/se/kth/id1020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/out/production/Assignment7/se/kth/id1020/ParenthesesTest/parenthesesFalse.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/out/production/Assignment7/se/kth/id1020/ParenthesesTest/parenthesesTrue.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/out/production/Assignment7/se/kth/id1020/Stack$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/out/production/Assignment7/se/kth/id1020/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/src/se/kth/id1020/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/src/se/kth/id1020/ParenthesesTest/parenthesesFalse.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/src/se/kth/id1020/ParenthesesTest/parenthesesTrue.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment7/src/se/kth/id1020/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/Assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/out/production/Assignment1/KTH/ID1020/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/out/production/Assignment1/KTH/ID1020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/src/KTH/ID1020/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/src/KTH/ID1020/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/Assignment2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/KTH/ID1020/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/KTH/ID1020/Inversions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/KTH/ID1020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/src/KTH/ID1020/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/src/KTH/ID1020/Inversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/src/KTH/ID1020/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/Assignment7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/out/production/Assignment7/KTH/ID1020/InsertionSortReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/out/production/Assignment7/KTH/ID1020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/src/KTH/ID1020/InsertionSortReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment7/src/KTH/ID1020/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/assigment1/cmake-build-debug/CMakeFiles/lab1.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/assigment1/cmake-build-debug/CMakeFiles/lab1.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/assigment1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/assigment1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/assigment1/cmake-build-debug/lab1" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/assigment1/cmake-build-debug/lab1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/assigment1/iterative_reverse.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/assigment1/iterative_reverse.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/assigment1/iterative_reverse.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/assigment1/iterative_reverse.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/assigment1/recursive_reverse.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/assigment1/recursive_reverse.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/assigment2/out/production/assigment2/se/kth/id1020/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/assigment2/out/production/assigment2/se/kth/id1020/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/assigment2/out/production/assigment2/se/kth/id1020/iterativeReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/assigment2/out/production/assigment2/se/kth/id1020/iterativeReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/assigment2/src/se/kth/id1020/IterativeReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/assigment2/src/se/kth/id1020/IterativeReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/assigment2/src/se/kth/id1020/RecursiveReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/assigment2/src/se/kth/id1020/RecursiveReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/assigment2/src/se/kth/id1020/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/assigment2/src/se/kth/id1020/Stack.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1yXjbN3jdBbcRvdjKKqHHmEP2Qu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Assignment3" TARGET_NAME="Assignment3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Assignment3" RUN_TARGET_NAME="Assignment3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4ac4239-1e53-4fbc-aeea-38c4fff264de" name="Changes" comment="" />
+      <created>1632404898236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632404898236</updated>
+      <workItem from="1632404900571" duration="18808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

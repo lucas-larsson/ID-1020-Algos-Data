@@ -8,7 +8,6 @@
 
 void itr_reverse() {
     int i = 1;
-
     char str[100];
     str[0] = getchar();
     while ( str[i-1 ] != 0xa ) {
