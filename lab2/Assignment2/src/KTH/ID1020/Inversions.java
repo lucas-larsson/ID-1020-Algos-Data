@@ -7,8 +7,8 @@ package KTH.ID1020;
  *
  * Time Complexity:  O(n^2)
  *   selection with repetition and with no regards to order
- *      (  n+k-1
- *         k      )      ==> (n*(n-1)/2) which evaluates to O(n^2)
+ *      (  n+k-1 )
+ *      (   k    )      ==> (n*(n-1)/2) which evaluates to O(n^2)
  *         k = 2, n = n.
  **/
 public class Inversions {
