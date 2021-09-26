@@ -19,7 +19,7 @@ void sort (int array[], int len){
     int j= 0;                               // Declared variables
     int l = len - 1;
     // O(n) time
-    for(int i = 0; i < len ; i++){           // not working when i < len???
+    for(int i = 0; i <= l ; i++){           // not working when i < len???
         int current = array[i];
         if(current < 0)                      // if negative swap left bound pointer
         {

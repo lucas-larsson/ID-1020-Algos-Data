@@ -15,27 +15,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4ac4239-1e53-4fbc-aeea-38c4fff264de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Assignment4/src/KTH/ID1020/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/src/KTH/ID1020/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/src/KTH/ID1020/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/Assignment6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/out/production/Assignment6/KTH/ID1020/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/src/KTH/ID1020/M3QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/src/KTH/ID1020/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment6/src/KTH/ID1020/StdRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1/out/production/Assignment1/KTH/ID1020/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1/out/production/Assignment1/KTH/ID1020/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/src/KTH/ID1020/Inversions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/src/KTH/ID1020/Inversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/Assidnment 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/out/production/Assidnment 5/KTH/ID1020/CutOffMergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/out/production/Assidnment 5/KTH/ID1020/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/out/production/Assidnment 5/KTH/ID1020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/out/production/Assidnment 5/KTH/ID1020/StdRandom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/src/KTH/ID1020/CutOffMergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/src/KTH/ID1020/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assidnment 5/src/KTH/ID1020/StdRandom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort.c" beforeDir="false" afterPath="$PROJECT_DIR$/sort.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,11 +85,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -107,7 +100,8 @@
       <option name="presentableId" value="Default" />
       <updated>1632404898236</updated>
       <workItem from="1632404900571" duration="18808000" />
-      <workItem from="1632589528766" duration="3455000" />
+      <workItem from="1632589528766" duration="3842000" />
+      <workItem from="1632670405468" duration="36000" />
     </task>
     <servers />
   </component>
