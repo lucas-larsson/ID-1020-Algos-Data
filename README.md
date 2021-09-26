@@ -3,4 +3,4 @@ school work
 
 lab 1 DONE
 
-lab 2 1,2,3,7 Done
+lab 2 1,2,3,6,7 Done
