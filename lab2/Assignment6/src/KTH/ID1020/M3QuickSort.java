@@ -9,14 +9,14 @@ package KTH.ID1020;
 class M3QuickSort
 {
     public static void sort (int [] array){
-        StdRandom.shuffle(array);
+        StdRandom.shuffle(array);           // Eliminate dependence on input.
         sort(array,0,array.length-1);
     }
-    private static void sort(int [] array, int lo, int hi)
-    { // See page 289 for public sort() that calls this method.
+    private static void sort(int [] array, int lo, int hi) {
+        // See page 289 for public sort() that calls this method.
         if (hi <= lo) return;
-        int lt = lo, i = lo+1, gt = hi;
-        int v = array[lo];
+        int lt = lo, i = lo+1, gt = hi;     // left and right scan indices
+        int v = array[lo];                  // partitioning item
         while (i <= gt)
         {
             if (array[i] < v)
@@ -25,8 +25,8 @@ class M3QuickSort
                 swap(array, i, gt--);
             else i++;
         } // Now a[lo..lt-1] < v = a[lt..gt] < a[gt+1..hi].
-        sort(array, lo, lt - 1);
-        sort(array, gt + 1, hi);
+        sort(array, lo, lt - 1);        // Sort left part a[lo .. j-1].
+        sort(array, gt + 1, hi);        // Sort right part a[j+1 .. hi].
     }
 
     private static void swap(int[] array,int left, int right) {

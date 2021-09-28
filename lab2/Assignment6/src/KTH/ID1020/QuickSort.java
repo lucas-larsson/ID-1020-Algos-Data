@@ -32,9 +32,9 @@ class QuickSort {
             a[i] = a[j];
             a[j] = temp;
         }
-        int temp = a[lo];
+        int temp = a[lo];       // Put v = a[j] into position
         a[lo] = a[j];
         a[j] = temp;
-        return j;
+        return j;               // with a[lo..j-1] <= a[j] <= a[j+1..hi].
     }
 }

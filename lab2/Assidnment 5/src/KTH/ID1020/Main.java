@@ -29,7 +29,7 @@ public class Main {
             temp = (int) (Math.random()*100);
             toBeSorted[i]= temp;
         }
-        // run the algorithm and measure its execution time
+        // run the algorithm and measure its execution time         // better way to do this?
         startTime = System.currentTimeMillis();
         CutOffMergeSort.sort(toBeSorted,cutOff);
         endTime = System.currentTimeMillis();

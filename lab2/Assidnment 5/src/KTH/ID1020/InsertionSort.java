@@ -4,7 +4,7 @@ package KTH.ID1020;
  * Author:      lLUCAS LARSSON
  * Date:        2021-09-26
  * Description: a class containing insertion sort algorithm
- * copied from the course literature
+ * copied from the course literature page 251
  **/
  class InsertionSort {
         public static void insertionSort(int[] array) {
