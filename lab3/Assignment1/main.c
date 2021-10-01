@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
-
+// Program not working, check other file written in java 
  void main() {
-    printf("Cuz Linus mama!\n");
+    printf("\n");
 
     FILE *read_from;
     FILE *write_to;
@@ -23,16 +23,6 @@
              fprintf(write_to,"%d",c);
          }
      }
-     /*
-     while (fgetc(read_from) != EOF){
-         if (isalpha(fgetc(read_from)) && fgetc(read_from) !=  '\n'){
-             putc(fgetc(read_from),write_to);
-         } else {
-             putc(' ',write_to );
-         }
-        // ' '
-     }
-      */
      fclose(read_from);
      fclose(write_to);
 }
