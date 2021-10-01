@@ -32,7 +32,7 @@ public class Main {
             String input = in.next();
             string.append(input);
         }
-        in.close();   // why is it needed ?
+        in.close();
         return "";
     }
     // boolean method that tests if the parentheses are balanced or not
