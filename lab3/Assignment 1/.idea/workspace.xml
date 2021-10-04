@@ -9,7 +9,143 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5deaebb-3abe-4cc3-893f-c6e887ca8e8d" name="Changes" comment="" />
+    <list default="true" id="d5deaebb-3abe-4cc3-893f-c6e887ca8e8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment 2/Assignment 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment 4/Assignment 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment 5/Assignment 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment 6/Assignment 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/Assignment 7/Assignment 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab2/Assignment 1/Assignment 11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab2/Assignment 2/Assignment 22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab2/Assignment 5/Assignment 51.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab2/Assignment 6/Assignment 61.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab2/Assignment 7/Assignment 71.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KTH/ID1020/OutPut/FilteredText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/Assignment 21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/out/production/Assignment 2/KTH/ID1020/FrequencyCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/out/production/Assignment 2/KTH/ID1020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/out/production/Assignment 2/edu/princeton/cs/algs4/BinarySearchST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/out/production/Assignment 2/edu/princeton/cs/algs4/Queue$LinkedIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/out/production/Assignment 2/edu/princeton/cs/algs4/Queue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/out/production/Assignment 2/edu/princeton/cs/algs4/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/src/KTH/ID1020/FilteredText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/src/KTH/ID1020/FrequencyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/src/KTH/ID1020/OutPutFiles/Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/src/KTH/ID1020/Results.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/src/edu/princeton/cs/algs4/BinarySearchST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2/src/edu/princeton/cs/algs4/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 3/Assignment 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 3/Assignment 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 3/out/production/Assignment 5/KTH/ID1020/OutPutFiles/Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 3/out/production/Assignment 5/edu/princeton/cs/algs4/BST$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 3/out/production/Assignment 5/edu/princeton/cs/algs4/BST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 3/out/production/Assignment 5/edu/princeton/cs/algs4/ST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 3/out/production/Assignment 5/edu/princeton/cs/algs4/StdOut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 3/src/KTH/ID1020/OutPutFiles/Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 3/src/edu/princeton/cs/algs4/ST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 3/src/edu/princeton/cs/algs4/StdOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/Assignment 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/Assignment 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/out/production/Assignment 6/KTH/ID1020/FilteredText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/out/production/Assignment 6/KTH/ID1020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/out/production/Assignment 6/edu/princeton/cs/algs4/Queue$LinkedIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/out/production/Assignment 6/edu/princeton/cs/algs4/Queue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/out/production/Assignment 6/edu/princeton/cs/algs4/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/out/production/Assignment 6/edu/princeton/cs/algs4/SeparateChainingHashST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/out/production/Assignment 6/edu/princeton/cs/algs4/SequentialSearchST$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/out/production/Assignment 6/edu/princeton/cs/algs4/SequentialSearchST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/src/KTH/ID1020/FilteredText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/src/KTH/ID1020/WordCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/src/edu/princeton/cs/algs4/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/src/edu/princeton/cs/algs4/SeparateChainingHashST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/src/edu/princeton/cs/algs4/SequentialSearchST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 7/Assignment 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 7/out/production/Assignment 7/KTH/ID1020/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 7/out/production/Assignment 7/edu/princeton/cs/algs4/BST$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 7/out/production/Assignment 7/edu/princeton/cs/algs4/BST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 7/out/production/Assignment 7/edu/princeton/cs/algs4/Queue$LinkedIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 7/out/production/Assignment 7/edu/princeton/cs/algs4/Queue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 7/out/production/Assignment 7/edu/princeton/cs/algs4/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 7/src/KTH/ID1020/FilteredText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 7/src/KTH/ID1020/FrequencyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 7/src/edu/princeton/cs/algs4/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 7/src/edu/princeton/cs/algs4/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignmnet 5/out/production/Assignment 5/edu/princeton/cs/algs4/SeparateChainingHashST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignmnet 5/src/KTH/ID1020/FilteredText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignmnet 5/src/KTH/ID1020/FrequencyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignmnet 5/src/KTH/ID1020/OutPutFiles/Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignmnet 5/src/KTH/ID1020/OutPutFiles/excelDoc.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignmnet 5/src/edu/princeton/cs/algs4/SeparateChainingHashST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/out/production/Assignment3/se/kth/id1020/DLLNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/out/production/Assignment3/se/kth/id1020/DoubleLinkedListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/out/production/Assignment3/se/kth/id1020/EmptyQueueException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/out/production/Assignment3/se/kth/id1020/FifoQueue$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/out/production/Assignment3/se/kth/id1020/FifoQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/out/production/Assignment3/se/kth/id1020/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/out/production/Assignment4/se/kth/id1020/DLLNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/out/production/Assignment4/se/kth/id1020/DoubleLinkedListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/out/production/Assignment4/se/kth/id1020/EmptyQueueException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/out/production/Assignment4/se/kth/id1020/FifoQueue$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/out/production/Assignment4/se/kth/id1020/FifoQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/out/production/Assignment4/se/kth/id1020/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab1/Assignment 4/src/se/kth/id1020/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/Assignment 4/src/se/kth/id1020/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FilteredText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/out/production/Assignment 2/KTH/ID1020/FilteredText.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment 1/KTH/ID1020/98-0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment 1/KTH/ID1020/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KTH/ID1020/98-0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/KTH/ID1020/98-0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KTH/ID1020/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KTH/ID1020/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/src/KTH/ID1020/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/src/KTH/ID1020/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/Assignment 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/Assignment_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/Assignment_1.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/Assignment_1.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/Assignment_1.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/Assignment_1.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/Assignment_1.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/Assignment_1.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/Assignment_1.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/Assignment_1.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/test.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,10 +236,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="KTH.ID1020" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
@@ -114,7 +256,6 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="KTH.ID1020.Main" />
       <module name="Assignment 1" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -137,6 +278,14 @@
       <updated>1633010648611</updated>
       <workItem from="1633010650643" duration="10982000" />
       <workItem from="1633031789969" duration="1421000" />
+      <workItem from="1633074503680" duration="22000" />
+      <workItem from="1633087793482" duration="8747000" />
+      <workItem from="1633199913386" duration="665000" />
+      <workItem from="1633200717286" duration="608000" />
+      <workItem from="1633249756652" duration="143000" />
+      <workItem from="1633252764180" duration="589000" />
+      <workItem from="1633283014655" duration="939000" />
+      <workItem from="1633328994364" duration="711000" />
     </task>
     <servers />
   </component>

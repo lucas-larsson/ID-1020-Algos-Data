@@ -23,7 +23,6 @@ public class Main {
             System.out.println("to quite press 3 ");
             int a = sc.nextInt();
 
-
             switch (a) {
 
                 case 1:
