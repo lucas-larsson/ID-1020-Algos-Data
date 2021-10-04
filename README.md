@@ -1,6 +1,7 @@
 # ID-1020-Algos-Data
 school work
+lab 1 Done I skipped Assignment 3
 
-lab 1 DONE
+lab 2 Done 
 
-lab 2 1,2,3,6,7 Done
+lab 3 Done 
