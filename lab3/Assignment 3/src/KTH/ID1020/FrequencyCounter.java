@@ -1,13 +1,11 @@
 package KTH.ID1020;
 import edu.princeton.cs.algs4.*;
 
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.Scanner;
 
 /**
- * Author:      lucasmacbookpro
+ * Author:      LUCAS LARSSON
  * Date:        2021-10-02
  * Description:
  **/
@@ -32,12 +30,12 @@ public class FrequencyCounter {
         for (String word : st.keys())
             if (st.get(word) > st.get(max))
                 max = word;
-            /*
+
         System.out.println("The most common word with ");
         System.out.println("Minimum Length: ["+args+"]");
         System.out.println("Word: \""+max +"\" ");
         System.out.println("Repetition Count: "+ st.get(max));
-        */
+
         return new Results(args,max,st.get(max));
     }
 }

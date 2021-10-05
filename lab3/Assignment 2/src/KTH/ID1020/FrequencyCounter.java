@@ -17,7 +17,6 @@ public class FrequencyCounter {
         File file = new File("src/KTH/ID1020/FilteredText.txt");
         FileReader fr = new FileReader(file);
         Scanner in = new Scanner(fr);
-        int j = 0;
         for (int i = 0; i < 1000; i++) {                    // Build symbol table and count frequencies.
             String word = in.next().toLowerCase();          // Lower case so that we can calculate all the words of the same type
             if (word.length() < args) continue;             // Ignore short keys.

@@ -9,7 +9,8 @@ import java.io.*;
 
 class Main {
     // check if 'c' is a letter return true
-    private static boolean isAlpha(char c) {
+    private static boolean isAlpha(int c) {
+
         return Character.isLetter(c);
     }
 
@@ -20,7 +21,7 @@ class Main {
         try (FileReader fr = new FileReader( file ) ){
             int c;
             while ((c = fr.read()) != -1 ){                              // file reader returns -1 at the EOF
-                if (isAlpha((char) c) || c == '\n' || c == ' ')
+                if (isAlpha(c) || c == '\n' || c == ' ')
                     writer.write(c);
                 else writer.write(' ');
             }

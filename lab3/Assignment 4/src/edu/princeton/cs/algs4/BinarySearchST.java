@@ -201,7 +201,7 @@ public class BinarySearchST<Key extends Comparable<Key>, Value> {
         // insert new key-value pair
         if (n == keys.length) resize(2*keys.length);
 
-        for (int j = n; j > i; j--)  {
+        for (int j = n; j > i; j--) {
             keys[j] = keys[j-1];
             vals[j] = vals[j-1];
         }

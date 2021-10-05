@@ -15,6 +15,7 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException {
        BST st = FrequencyCounter.wordCounter(200);
         Scanner sc = new Scanner(System.in);
+
         boolean quit = false;
         while (!quit){
             System.out.println("to print in Alphabetic order press 1");

@@ -16,7 +16,7 @@ public class Main {
         int[]  hashArray = FrequencyCounter.frequencyCounterST();
 
         File outFile = new File("src/KTH/ID1020/OutPutFiles/hashData.csv");
-        try (FileWriter fw = new FileWriter(outFile);) {
+        try (FileWriter fw = new FileWriter(outFile)) {
             for (int j : hashArray) {
                 fw.write(j+"\n");
                 System.out.println(j);
