@@ -11,41 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d5deaebb-3abe-4cc3-893f-c6e887ca8e8d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KTH/ID1020/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KTH/ID1020/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 2/src/KTH/ID1020/FrequencyCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/src/KTH/ID1020/FrequencyCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 3/src/KTH/ID1020/FrequencyCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/src/KTH/ID1020/FrequencyCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST10.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST10.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST11.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST11.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST12.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST12.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST13.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST14.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST14.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST4.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST5.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST6.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST7.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST8.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataBST9.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST10.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST10.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST11.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST11.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST12.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST12.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST13.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST14.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST14.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST4.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST5.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST6.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST7.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST8.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/KTH/ID1020/OutPutFiles/DataST9.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/edu/princeton/cs/algs4/BinarySearchST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/edu/princeton/cs/algs4/BinarySearchST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 6/src/KTH/ID1020/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 6/src/KTH/ID1020/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment 7/src/KTH/ID1020/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/src/KTH/ID1020/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignmnet 5/src/KTH/ID1020/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignmnet 5/src/KTH/ID1020/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,6 +153,8 @@
       <workItem from="1633283014655" duration="939000" />
       <workItem from="1633328994364" duration="711000" />
       <workItem from="1633409663022" duration="1149000" />
+      <workItem from="1633546633847" duration="284000" />
+      <workItem from="1633686178563" duration="168000" />
     </task>
     <servers />
   </component>
