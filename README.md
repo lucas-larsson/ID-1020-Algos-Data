@@ -1,4 +1,4 @@
-# ID-1020-Algos-Data
+# ID1020-Algorithms and DataStructuers
 school work
 
 lab 1 Done I skipped Assignment 3
